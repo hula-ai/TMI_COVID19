@@ -9,16 +9,22 @@ The CT and X-ray Dataset can be downloaded from: https://drive.google.com/open?i
 You may change the training data, but test sets should not be changed.
 
 CT folder:
+
   CT_COVID.zip: all CT images for COVID cases.
+  
   CT_NonCOVID.zip: all CT images for Non-COVID cases.
+  
   CT_DATA.zip: all CT images seperated for training, testing, and validation. 
  
   
  X-ray folder:
+ 
   X_DATA.zip: all x-ray images seperated for training and testing.
   
  Alpha-test set:
+ 
   The images that were sent to radiologists and the name mappings can be found here:
+  
   https://drive.google.com/open?id=1AQRrpRUzGhyTTc28ODlpZqqrG3V4kDx4
  
  
