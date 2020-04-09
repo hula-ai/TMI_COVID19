@@ -17,7 +17,7 @@ CT folder:
  X-ray folder:
   X_DATA.zip: all x-ray images seperated for training and testing.
   
- ALpha-test set:
+ Alpha-test set:
   The images that were sent to radiologists and the name mappings can be found here:
   https://drive.google.com/open?id=1AQRrpRUzGhyTTc28ODlpZqqrG3V4kDx4
  
