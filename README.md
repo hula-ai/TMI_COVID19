@@ -27,6 +27,7 @@ CT folder:
   
   https://drive.google.com/open?id=1AQRrpRUzGhyTTc28ODlpZqqrG3V4kDx4
   
+  # UPDATE
   - The results recieved from radiologists are added to: https://drive.google.com/open?id=1HM9L2t1jg_KTfGsofzScEKzl0X4lZ28R
   
    CT Radiologist.zip: CT images that each radiologist could classify + .xlsx file including actual name of each image,
