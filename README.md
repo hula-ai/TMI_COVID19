@@ -29,9 +29,10 @@ CT folder:
   
   - The results recieved from radiologists are added to: https://drive.google.com/open?id=1HM9L2t1jg_KTfGsofzScEKzl0X4lZ28R
   
-    CT Radiologist.zip: CT images that each radiologist could classify + .xlsx file including actual name of each image,
+   CT Radiologist.zip: CT images that each radiologist could classify + .xlsx file including actual name of each image,
   predicted and actual class. 0 is for Non-COVID and 1 for COVID class.
-    Xray Radiologist.zip: Xray images + .xlsx file including actual name of each image, predicted and actual class. 0 is for normal,
+    
+   Xray Radiologist.zip: Xray images + .xlsx file including actual name of each image, predicted and actual class. 0 is for normal,
   1 for COVID, and 2 for pneumonia  class.
  
  
